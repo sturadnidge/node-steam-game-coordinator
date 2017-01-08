@@ -1,6 +1,6 @@
 # SteamGameCoordinator
 
-This is a handler for friends related functionality, to be used with the `node-steam` module. It is basically a straight copy of Seishun's module [here](https://github.com/seishun/node-steam/tree/master/lib/handlers/game_coordinator).
+This is a handler for game coordinator related functionality, to be used with the `node-steam` module. It is basically a straight copy of Seishun's module [here](https://github.com/seishun/node-steam/tree/master/lib/handlers/game_coordinator).
 
 Initialize it by passing a SteamClient instance and AppID to the constructor.
 
