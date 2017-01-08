@@ -1,6 +1,6 @@
 {
   "name": "node-steam-game-coordinator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Minimal Steam Game Coordinator implementation using `node-steam`",
   "engines": {
     "node": "^4.1"
